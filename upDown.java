@@ -1,4 +1,4 @@
-// 소스 코드 수정 중
+// 소스 코드 수정 중입니다.
 
 package game;
 
@@ -13,7 +13,7 @@ public class upDown {
 		Scanner scan = new Scanner(System.in);
 
 		do {
-			System.out.print("정답을 추측하여 보세요 : ");
+			System.out.print("정답을 추측하여 보시오 : ");
 			guess = scan.nextInt();
 			count++;
 			
