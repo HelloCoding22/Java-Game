@@ -18,9 +18,9 @@ public class upDown {
 			count++;
 			
 			if(guess > answer)
-				System.out.println("다운!");
+				System.out.println("다운!!");
 			if(guess < answer)
-				System.out.println("업!");
+				System.out.println("업!!");
 		} while(guess != answer);
 		
 		System.out.println("축하합니다. 시도 횟수는 " + count + " 번 입니다.");
