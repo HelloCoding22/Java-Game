@@ -1,5 +1,5 @@
 // 소스 코드 수정 중
-
+// 새로운 주석
 package game;
 
 import java.util.Scanner;
