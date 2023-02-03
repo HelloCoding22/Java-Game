@@ -1,5 +1,5 @@
 // 소스 코드 수정 중
-
+// 주석 한줄 달기
 package game;
 
 import java.util.Scanner;
@@ -13,14 +13,14 @@ public class upDown {
 		Scanner scan = new Scanner(System.in);
 
 		do {
-			System.out.print("정답을 추측하여 보세요 : ");
+			System.out.print("Input the number: ");
 			guess = scan.nextInt();
 			count++;
 			
 			if(guess > answer)
-				System.out.println("다운!");
+				System.out.println("DOWN!");
 			if(guess < answer)
-				System.out.println("업!");
+				System.out.println("UP!");
 		} while(guess != answer);
 		
 		System.out.println("축하합니다. 시도 횟수는 " + count + " 번 입니다.");
