@@ -1,13 +1,13 @@
-// 소스 코드 수정 중
+// 소스 코드 수정 중입니다~~~
 
 package game;
 
 import java.util.Scanner;
-// 변화를 일으켜
+// 안녕하세요
 public class upDown {
 	public static void main(String[] args) {
 		
-		int answer = (int)(Math.random() * 100 + 1);
+		int answer = (int)(Math.random() * 111 + 1);
 		int guess;
 		int count = 0;
 		Scanner scan = new Scanner(System.in);
