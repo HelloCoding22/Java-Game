@@ -1,9 +1,9 @@
-// 소스 코드 수정 중
+// 소스 코드
 
 package game;
 
 import java.util.Scanner;
-// 변화를 일으켜
+// 변화를 일으켜라
 public class upDown {
 	public static void main(String[] args) {
 		
