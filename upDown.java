@@ -13,7 +13,7 @@ public class upDown {
 		Scanner scan = new Scanner(System.in);
 
 		do {
-			System.out.print("정답을 추측하여 보세요 : ");
+			System.out.print("정답을 추측해 보세요 : ");
 			guess = scan.nextInt();
 			count++;
 			
