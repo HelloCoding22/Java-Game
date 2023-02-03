@@ -3,7 +3,7 @@
 package game;
 
 import java.util.Scanner;
-// 변화를 일으켜
+// 스스로 불러온 재앙에 짓눌려
 public class upDown {
 	public static void main(String[] args) {
 		
