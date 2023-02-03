@@ -8,8 +8,6 @@ public class test {
 	public static void main() {
 		
 		System.out.println("Hello");
-		
-		
 		System.out.println("really it work?");
 		System.out.println("It is high time to use it!");
 	}
