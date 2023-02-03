@@ -3,7 +3,7 @@
 package game;
 
 import java.util.Scanner;
-// 변화를 일으켜
+
 public class upDown {
 	public static void main(String[] args) {
 		
