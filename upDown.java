@@ -6,7 +6,7 @@ public class upDown {
 	public static void main(String[] args) {
 		
 		int answer = (int)(Math.random() * 100 + 1);
-		int guess;
+		int guess; //수정
 		int count = 0;
 		Scanner scan = new Scanner(System.in);
 
