@@ -1,7 +1,7 @@
 // ì†ŒìŠ¤ ì½”ë“œ ìˆ˜ì • ì¤‘
 
 package game;
-
+// ¼Ò½º ÄÚµå ¼öÁ¤
 import java.util.Scanner;
 
 public class upDown {
