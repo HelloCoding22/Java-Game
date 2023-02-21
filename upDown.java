@@ -1,5 +1,5 @@
 package game;
-
+//Test 테스트
 import java.util.Scanner;
 
 public class upDown {
