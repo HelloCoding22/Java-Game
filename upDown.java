@@ -1,3 +1,4 @@
+//소스코드 주정 중
 package game;
 
 import java.util.Scanner;
