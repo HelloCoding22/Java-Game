@@ -17,7 +17,7 @@ public class upDown {
 			
 			if(guess > answer)
 				System.out.println("다운!");
-			if(guess < answer)
+			else if(guess < answer)
 				System.out.println("업!");
 		} while(guess != answer);
 		
