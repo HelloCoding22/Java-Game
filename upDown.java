@@ -22,6 +22,7 @@ public class upDown {
 		} while(guess != answer);
 		
 		System.out.println("축하합니다. 시도 횟수는 " + count + " 번 입니다.");
+		System.out.println("종료합니다.");
 	}
 
 }
