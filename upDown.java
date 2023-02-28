@@ -1,5 +1,4 @@
-// 소스 코드 수정 중
-
+// 소스 코드 수정
 package game;
 
 import java.util.Scanner;
