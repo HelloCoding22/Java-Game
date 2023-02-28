@@ -1,5 +1,6 @@
 // 소스 코드 수정 중
-
+// thtm zhem tnwjd wnd
+// 수정되는지 함 확인해봄
 package game;
 
 import java.util.Scanner;
