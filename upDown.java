@@ -8,6 +8,7 @@ public class upDown {
 	public static void main(String[] args) {
 
 		System.out.println("updown");
+		System.out.println("updown2");
 
 	}
 
