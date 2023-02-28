@@ -1,5 +1,5 @@
 // 소스 코드 수정 중
-
+// 깃허브연습
 package game;
 
 import java.util.Scanner;
