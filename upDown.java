@@ -9,6 +9,7 @@ public class upDown {
 
 		System.out.println("updown");
 		System.out.println("updown2");
+		System.out.println("updown3");
 
 	}
 
